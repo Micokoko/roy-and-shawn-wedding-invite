@@ -143,7 +143,7 @@ function App() {
                 <div className='column'>
                   <h2>FLOWER BOYS</h2>
                     <div className='flower-boy-girl-name'>
-                      <h2>Alonzo Co</h2>
+                      <h2>Alonzo Co </h2>
                       <h2>Mason Cruz</h2>
                     </div>
                 </div>

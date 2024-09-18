@@ -290,9 +290,10 @@ body {
 .flower-boy-girl{
   display: grid;
   grid-template-columns: 1fr 1fr; 
-  gap: 80px;
+  column-gap: 80px;
   padding: 10px;
   text-align: center;
+  
 
     .column {
       display: flex;
@@ -324,6 +325,7 @@ body {
   flex-direction: column;
   align-items: center; 
   text-align: center;
+  margin-bottom: 20px;
 
   h2 {
     margin-top: 10px;
@@ -350,7 +352,7 @@ body {
   grid-template-columns: 1fr 1fr; 
   gap: 20px;
   padding: 20px;
-  margin-bottom: 25px;
+  margin-bottom: px;
 
 
   .column {
@@ -365,6 +367,7 @@ body {
       margin-bottom: 0px;
       font-style: normal;
       margin-bottom: 15px;
+      margin-top: 30px;
   
     }
   
@@ -547,6 +550,17 @@ body {
 
 }
 
+@media only screen and (min-width: 1000px) {
+
+  .Parents,.BestMen-MaidofHonors, .BridesMaids-GroomsMen, .Wedding-Roles {
+  column-gap: 200px; 
+  }
+
+  .flower-boy-girl{
+    column-gap: 350px;
+  }
+
+}
 
 
 
