@@ -353,6 +353,7 @@ body {
   gap: 20px;
   padding: 20px;
 
+
   .column {
     display: flex;
     flex-direction: column;
@@ -388,16 +389,17 @@ body {
   padding: 20px;
   margin-top: 50px;
 
-  .Attire-Text {
-    width: 40%;
-    height: auto;
 
+  .Attire-Text {
+    width: 73%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: -80px;
   }
 
   img{
     width: 100%;
     height: auto;
-
   }
 
   h1 {
@@ -429,9 +431,9 @@ body {
   margin-top: 10px;
 
   .Theme-Text {
-    width: 40%;
+    width: 70%;
     height: auto;
-
+    margin-bottom: -60px;
   }
 
   img{
