@@ -59,8 +59,8 @@ function App() {
 
           <div className='column'>
             <h2 className='parentsList'>PARENTS OF THE GROOM</h2>
-            <h2>Roy A. Villarosa</h2>
-            <h2>Ma. Carmela M. Benipayo</h2>
+            <h2>Roy A. Villarosa </h2>
+            <h2>Ma. Carmela M. Benipayo </h2>
             </div>
           </div>
 
@@ -71,7 +71,7 @@ function App() {
               <h2>Anjanette Juan</h2>
               <h2>Ronald Juan</h2>
               <h2>Carmeliza Imson</h2>
-              <h2>Kristine Co</h2>
+              <h2>Severing Imson</h2>
               <h2>Aurora Cruz</h2>
               <h2>Mylene Talens</h2>
             </div>
@@ -80,6 +80,7 @@ function App() {
               <h2>Emmanuel Peña Jr.</h2>
               <h2>Joycelyn Peña</h2>
               <h2>Maria Patricia Sison</h2>
+              <h2>Kristine Co</h2>
               <h2>Annette Ty</h2>
               <h2>Laarnie Burias</h2>
             </div>
