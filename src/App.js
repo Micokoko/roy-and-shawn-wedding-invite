@@ -89,13 +89,7 @@ function App() {
 
 
           <div className='BestMen-MaidofHonors'>
-            <div className='column'>
-              <h2>BEST MEN</h2>
-                <div className='BestMen-MaidofHonors-names'>
-                  <h2>Emmanuel Joshua Peña IV</h2>
-                  <h2>Miguel Enrico Baliña</h2>
-                </div>
-            </div>
+            
 
             <div className='column'>
               <h2>MAID & MAN OF HONOR</h2>
@@ -105,6 +99,18 @@ function App() {
                   <h2>Jana Marie Feranz Tabuzo</h2>
                 </div>
               </div>
+              
+
+            <div className='column'>
+              <h2>BEST MEN</h2>
+                <div className='BestMen-MaidofHonors-names'>
+                  <h2>Emmanuel Joshua Peña IV</h2>
+                  <h2>Miguel Enrico Baliña</h2>
+                </div>
+            </div>
+
+
+
           </div>
 
 
