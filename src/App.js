@@ -71,7 +71,7 @@ function App() {
               <h2>Anjanette Juan</h2>
               <h2>Ronald Juan</h2>
               <h2>Carmeliza Imson</h2>
-              <h2>Severing Imson</h2>
+              <h2>Severino Imson</h2>
               <h2>Aurora Cruz</h2>
               <h2>Mylene Talens</h2>
             </div>
